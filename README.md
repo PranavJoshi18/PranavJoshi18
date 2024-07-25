@@ -1,4 +1,4 @@
-#Pranav Joshi 
+# Pranav Joshi 
 
 **`Digital Craftsman (Developer/YouTuber)`**
 
