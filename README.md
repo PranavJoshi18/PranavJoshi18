@@ -20,6 +20,8 @@ I'm a CS undergrad from India who likes to work on development projects and code
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
+
 - 👋 Hi, I’m @PranavJoshi18
 - 👀 I’m interested in learning new languages.
 - 🌱 I’m currently learning Java.
